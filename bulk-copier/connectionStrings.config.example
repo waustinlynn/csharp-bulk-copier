@@ -1,4 +1,0 @@
-﻿<connectionStrings>
-  <add name="DESTINATION" connectionString=""/>
-  <add name="SOURCE" connectionString=""/>
-</connectionStrings>
